@@ -1,0 +1,194 @@
+ProductID,ProductName,ReviewerID,Rating,ReviewText,Sentiment,ReviewDate,HelpfulVotes,TotalVotes,HelpfulnessRatio
+B0890779946,Amazon Basics AAA Batteries,R13278,3,Average performance for the price point. (Review 1),Neutral,4/15/2023,14,16,0.88
+B0200604502,Blue Yeti Microphone,R21395,5,This is a game-changer! Improved my daily routine significantly. (Review 2),Positive,8/12/2023,2,2,1
+B0868820204,Instant Pot Duo,R76237,5,Absolutely love this product! It works perfectly and is so easy to use. Highly recommend! (Review 3),Positive,10/27/2024,35,38,0.92
+B0969119330,Blue Yeti Microphone,R64987,2,Not worth the price. Many better alternatives out there. (Review 4),Negative,1/7/2023,37,41,0.9
+B0919795579,SanDisk Ultra MicroSD Card,R65392,3,"Neither good nor bad, just functional. (Review 5)",Neutral,12/11/2023,9,12,0.75
+B0748245888,Amazon Basics AAA Batteries,R22156,4,Fantastic quality for the price. I'm very impressed and would buy again. (Review 6),Positive,9/28/2023,22,27,0.81
+B0692749116,Fire TV Stick 4K Max,R70217,5,Fantastic quality for the price. I'm very impressed and would buy again. (Review 7),Positive,10/28/2023,24,25,0.96
+B0149203558,Blink Mini Camera,R57400,5,A must-have! So useful and well-designed. (Review 8),Positive,11/8/2024,45,46,0.98
+B0398471886,Instant Pot Duo,R47930,1,"Very bad experience, not recommended. (Review 9)",Negative,4/9/2024,6,12,0.5
+B0386665249,Wyze Cam v3,R31319,3,"It's fine, could be improved in some areas. (Review 10)",Neutral,12/19/2024,13,23,0.57
+B0275452091,Kindle Paperwhite,R89840,2,This product is a complete failure. So many issues. (Review 11),Negative,4/18/2024,46,49,0.94
+B0924970419,Fitbit Charge 5,R45382,5,A must-have! So useful and well-designed. (Review 12),Positive,2/27/2023,43,48,0.9
+B0326541099,Instant Pot Duo,R14207,3,"Met basic expectations, nothing more. (Review 13)",Neutral,8/3/2024,17,18,0.94
+B0253407200,Ring Video Doorbell,R37869,4,This is a game-changer! Improved my daily routine significantly. (Review 14),Positive,9/29/2023,41,48,0.85
+B0560027313,Anker Power Bank,R42325,5,I'm so glad I bought this. It's truly a top-notch item. (Review 15),Positive,8/20/2024,16,25,0.64
+B0197613238,Fitbit Charge 5,R57447,2,Does not work as described. A complete scam. (Review 16),Negative,2/18/2023,32,39,0.82
+B0513140753,Amazon Basics AAA Batteries,R30033,2,Received a defective unit. Customer service was unhelpful. (Review 17),Negative,1/26/2024,38,39,0.97
+B0830448745,Blink Mini Camera,R71348,5,Couldn't be happier with my purchase. Five stars! (Review 18),Positive,4/28/2023,35,35,1
+B0269820594,Blue Yeti Microphone,R44973,3,"Decent quality, but I've seen better. (Review 19)",Neutral,4/9/2024,18,24,0.75
+B0771410971,Echo Dot (5th Gen),R44522,5,Exceeded my expectations. The features are great and it's a joy to use. (Review 20),Positive,11/2/2023,32,33,0.97
+B0679153816,Logitech MX Master 3 Mouse,R89818,2,Does not work as described. A complete scam. (Review 21),Negative,6/27/2024,23,25,0.92
+B0489747629,Echo Dot (5th Gen),R88504,3,I have no strong feelings about this product. (Review 22),Neutral,11/11/2023,1,2,0.5
+B0885879795,Instant Pot Duo,R17592,2,Absolutely horrendous. Wish I could give zero stars. (Review 23),Negative,5/12/2024,5,6,0.83
+B0690347116,Kindle Paperwhite,R79822,2,Does not work as described. A complete scam. (Review 24),Negative,6/19/2023,42,49,0.86
+B0910959828,Ninja Foodi Air Fryer,R79163,5,This is a game-changer! Improved my daily routine significantly. (Review 25),Positive,12/7/2024,13,21,0.62
+B0584779555,Waterpik Water Flosser,R50857,4,"Great product, does exactly what it says. Very satisfied. (Review 26)",Positive,5/4/2023,28,36,0.78
+B0694768704,Instant Pot Duo,R39451,1,Poor design and cheap materials. Regret buying it. (Review 27),Negative,8/24/2023,1,10,0.1
+B0163215224,TP-Link Kasa Smart Plug,R38864,1,"Terrible quality, don't waste your money. (Review 28)",Negative,8/23/2023,45,55,0.82
+B0399012686,Kindle Paperwhite,R14117,3,"Decent quality, but I've seen better. (Review 29)",Neutral,11/16/2024,32,35,0.91
+B0718702544,Samsung Smart TV,R38080,5,Exceeded my expectations. The features are great and it's a joy to use. (Review 30),Positive,4/29/2024,46,55,0.84
+B0807577342,Instant Pot Duo,R71993,4,A must-have! So useful and well-designed. (Review 31),Positive,3/17/2024,6,7,0.86
+B0823019672,Wyze Cam v3,R65519,4,Excellent value and performance. Definitely worth it. (Review 32),Positive,10/31/2024,46,46,1
+B0305718272,Amazon Basics AAA Batteries,R17944,4,"Great product, does exactly what it says. Very satisfied. (Review 33)",Positive,7/14/2023,6,9,0.67
+B0596743109,Blue Yeti Microphone,R68800,2,Received a defective unit. Customer service was unhelpful. (Review 34),Negative,9/13/2023,11,15,0.73
+B0680451872,Kindle Paperwhite,R68082,5,Fantastic quality for the price. I'm very impressed and would buy again. (Review 35),Positive,1/16/2023,3,13,0.23
+B0329509408,Kindle Paperwhite,R40982,2,Received a defective unit. Customer service was unhelpful. (Review 36),Negative,2/15/2024,31,38,0.82
+B0941889393,Fire TV Stick 4K Max,R31579,4,Absolutely love this product! It works perfectly and is so easy to use. Highly recommend! (Review 37),Positive,4/10/2024,24,28,0.86
+B0418587604,Philips Hue Smart Bulb,R65444,5,Excellent value and performance. Definitely worth it. (Review 38),Positive,8/11/2023,9,12,0.75
+B0161380746,Fire TV Stick 4K Max,R85914,5,Absolutely love this product! It works perfectly and is so easy to use. Highly recommend! (Review 39),Positive,2/21/2023,47,52,0.9
+B0645276696,TP-Link Kasa Smart Plug,R72493,5,I'm so glad I bought this. It's truly a top-notch item. (Review 40),Positive,3/24/2023,10,10,1
+B0533550699,SanDisk Ultra MicroSD Card,R18981,5,Fantastic quality for the price. I'm very impressed and would buy again. (Review 41),Positive,5/3/2023,43,46,0.93
+B0188029013,TP-Link Kasa Smart Plug,R42271,5,Perfect for my needs. Durable and reliable. (Review 42),Positive,3/5/2024,2,11,0.18
+B0819112790,TP-Link Kasa Smart Plug,R84085,5,"Great product, does exactly what it says. Very satisfied. (Review 43)",Positive,11/18/2023,16,19,0.84
+B0422119408,Instant Pot Duo,R44814,4,Exceeded my expectations. The features are great and it's a joy to use. (Review 44),Positive,4/13/2024,42,52,0.81
+B0207354053,Ring Video Doorbell,R19508,1,Not worth the price. Many better alternatives out there. (Review 45),Negative,3/17/2023,39,48,0.81
+B0173864104,Blue Yeti Microphone,R37938,5,Couldn't be happier with my purchase. Five stars! (Review 46),Positive,9/8/2023,8,13,0.62
+B0756783995,Wyze Cam v3,R47353,2,Not worth the price. Many better alternatives out there. (Review 47),Negative,10/31/2024,34,38,0.89
+B0244193987,Logitech MX Master 3 Mouse,R11025,5,Couldn't be happier with my purchase. Five stars! (Review 48),Positive,9/28/2023,42,43,0.98
+B0749431082,Amazon Basics AAA Batteries,R24029,5,Exceeded my expectations. The features are great and it's a joy to use. (Review 49),Positive,8/4/2023,17,21,0.81
+B0154544899,Ring Video Doorbell,R36685,3,"It's a standard item, no surprises. (Review 50)",Neutral,4/5/2023,31,35,0.89
+B0784095277,Apple AirPods Pro,R46265,1,Very disappointed with this purchase. It broke after a week. (Review 51),Negative,9/26/2023,21,23,0.91
+B0220123666,SanDisk Ultra MicroSD Card,R67912,5,This is a game-changer! Improved my daily routine significantly. (Review 52),Positive,3/19/2023,35,35,1
+B0259014493,Anker Power Bank,R81511,1,Poor design and cheap materials. Regret buying it. (Review 53),Negative,3/16/2024,37,45,0.82
+B0484194737,Anker Power Bank,R15482,3,"It's fine, could be improved in some areas. (Review 54)",Neutral,8/4/2023,50,50,1
+B0536344399,Instant Pot Duo,R97416,1,Poor design and cheap materials. Regret buying it. (Review 55),Negative,9/27/2024,49,57,0.86
+B0292587044,Anker Power Bank,R41029,2,Does not work as described. A complete scam. (Review 56),Negative,12/7/2023,26,26,1
+B0510751046,Apple AirPods Pro,R97806,2,Highly unreliable and frustrating to use. (Review 57),Negative,2/9/2023,10,11,0.91
+B0981044229,Samsung Smart TV,R39154,2,Not worth the price. Many better alternatives out there. (Review 58),Negative,8/22/2023,22,26,0.85
+B0174539964,Instant Pot Duo,R13101,2,Received a defective unit. Customer service was unhelpful. (Review 59),Negative,10/13/2023,21,25,0.84
+B0455569462,Wyze Cam v3,R94080,5,This is a game-changer! Improved my daily routine significantly. (Review 60),Positive,1/29/2023,43,51,0.84
+B0216396351,Amazon Basics AAA Batteries,R44237,2,Absolutely horrendous. Wish I could give zero stars. (Review 61),Negative,9/2/2024,16,16,1
+B0224173718,Apple AirPods Pro,R55309,3,"Met basic expectations, nothing more. (Review 62)",Neutral,1/30/2024,38,46,0.83
+B0101815992,TP-Link Kasa Smart Plug,R34914,3,"It's an okay product. Does the job, nothing special. (Review 63)",Neutral,6/16/2024,45,51,0.88
+B0813219781,Blue Yeti Microphone,R97900,2,Poor design and cheap materials. Regret buying it. (Review 64),Negative,12/5/2023,27,28,0.96
+B0816070802,Blink Mini Camera,R51145,1,Highly unreliable and frustrating to use. (Review 65),Negative,2/23/2024,32,36,0.89
+B0551450815,Ring Video Doorbell,R62743,3,"It's a standard item, no surprises. (Review 66)",Neutral,11/11/2024,8,11,0.73
+B0536019893,Fitbit Charge 5,R98777,2,Absolutely horrendous. Wish I could give zero stars. (Review 67),Negative,7/15/2024,36,40,0.9
+B0751397897,Echo Dot (5th Gen),R49829,3,Average performance for the price point. (Review 68),Neutral,11/1/2024,27,36,0.75
+B0648868899,Ring Video Doorbell,R70946,4,Excellent value and performance. Definitely worth it. (Review 69),Positive,4/29/2024,43,46,0.93
+B0779615069,SanDisk Ultra MicroSD Card,R96356,1,Highly unreliable and frustrating to use. (Review 70),Negative,9/26/2024,32,42,0.76
+B0258220114,Ring Video Doorbell,R22240,2,Highly unreliable and frustrating to use. (Review 71),Negative,1/26/2023,14,17,0.82
+B0588999385,Fire TV Stick 4K Max,R42092,4,Perfect for my needs. Durable and reliable. (Review 72),Positive,2/29/2024,49,50,0.98
+B0258453521,TP-Link Kasa Smart Plug,R35485,4,Excellent value and performance. Definitely worth it. (Review 73),Positive,11/2/2024,25,28,0.89
+B0598806645,Echo Dot (5th Gen),R23970,4,A must-have! So useful and well-designed. (Review 74),Positive,2/21/2023,11,19,0.58
+B0816806128,Blue Yeti Microphone,R42662,1,Not worth the price. Many better alternatives out there. (Review 75),Negative,6/27/2024,8,15,0.53
+B0558209399,Blue Yeti Microphone,R88047,3,I have no strong feelings about this product. (Review 76),Neutral,7/15/2024,39,47,0.83
+B0784683755,Sony WH-1000XM5 Headphones,R30861,4,Excellent value and performance. Definitely worth it. (Review 77),Positive,10/11/2023,16,19,0.84
+B0866162966,Logitech MX Master 3 Mouse,R73517,2,Highly unreliable and frustrating to use. (Review 78),Negative,10/20/2023,28,29,0.97
+B0248578017,Instant Pot Duo,R45614,3,"It's fine, could be improved in some areas. (Review 79)",Neutral,6/4/2023,34,35,0.97
+B0537656494,Instant Pot Duo,R60205,2,Worst product I've ever bought on Amazon. Avoid! (Review 80),Negative,12/5/2023,4,10,0.4
+B0518197538,Blue Yeti Microphone,R71069,4,Absolutely love this product! It works perfectly and is so easy to use. Highly recommend! (Review 81),Positive,8/21/2024,13,19,0.68
+B0420632895,Echo Dot (5th Gen),R85456,4,Excellent value and performance. Definitely worth it. (Review 82),Positive,2/4/2024,0,5,0
+B0335602191,Apple AirPods Pro,R80545,5,Perfect for my needs. Durable and reliable. (Review 83),Positive,10/7/2023,14,21,0.67
+B0829223044,Apple AirPods Pro,R73654,1,Received a defective unit. Customer service was unhelpful. (Review 84),Negative,2/19/2024,21,31,0.68
+B0523076025,SanDisk Ultra MicroSD Card,R71261,2,Absolutely horrendous. Wish I could give zero stars. (Review 85),Negative,8/29/2024,34,34,1
+B0245706210,TP-Link Kasa Smart Plug,R96900,1,"Terrible quality, don't waste your money. (Review 86)",Negative,4/17/2024,41,47,0.87
+B0588229686,SanDisk Ultra MicroSD Card,R16590,3,"Met basic expectations, nothing more. (Review 87)",Neutral,12/1/2023,20,23,0.87
+B0604988121,Ring Video Doorbell,R59692,3,"Met basic expectations, nothing more. (Review 88)",Neutral,1/20/2023,16,17,0.94
+B0938842599,Blue Yeti Microphone,R16826,3,Average performance for the price point. (Review 89),Neutral,10/29/2024,41,42,0.98
+B0263619298,Fire TV Stick 4K Max,R14067,2,Worst product I've ever bought on Amazon. Avoid! (Review 90),Negative,9/2/2023,1,10,0.1
+B0851044796,Anker Power Bank,R72070,1,Absolutely horrendous. Wish I could give zero stars. (Review 91),Negative,9/20/2023,13,20,0.65
+B0935147672,Wyze Cam v3,R31992,5,Perfect for my needs. Durable and reliable. (Review 92),Positive,6/17/2023,47,48,0.98
+B0827296111,Philips Hue Smart Bulb,R24168,5,Absolutely love this product! It works perfectly and is so easy to use. Highly recommend! (Review 93),Positive,1/20/2024,19,28,0.68
+B0360757540,Fitbit Charge 5,R35995,1,Absolutely horrendous. Wish I could give zero stars. (Review 94),Negative,4/15/2023,44,54,0.81
+B0940348305,Philips Hue Smart Bulb,R99687,5,Fantastic quality for the price. I'm very impressed and would buy again. (Review 95),Positive,2/12/2023,50,59,0.85
+B0795294275,Wyze Cam v3,R79827,4,"Great product, does exactly what it says. Very satisfied. (Review 96)",Positive,12/16/2023,4,12,0.33
+B0782454310,Echo Dot (5th Gen),R65057,4,Fantastic quality for the price. I'm very impressed and would buy again. (Review 97),Positive,4/15/2024,27,32,0.84
+B0761330848,Anker Power Bank,R67080,2,This product is a complete failure. So many issues. (Review 98),Negative,7/5/2024,41,45,0.91
+B0363598427,Samsung Smart TV,R70931,4,Perfect for my needs. Durable and reliable. (Review 99),Positive,3/30/2023,17,22,0.77
+B0817461907,Ninja Foodi Air Fryer,R69087,2,Not worth the price. Many better alternatives out there. (Review 100),Negative,1/24/2024,36,45,0.8
+B0327761953,Ring Video Doorbell,R13761,4,"Great product, does exactly what it says. Very satisfied. (Review 101)",Positive,12/30/2023,11,18,0.61
+B0696776072,Ninja Foodi Air Fryer,R54608,3,Functional but lacks any standout features. (Review 102),Neutral,1/11/2023,44,48,0.92
+B0624606470,Logitech MX Master 3 Mouse,R35042,1,Worst product I've ever bought on Amazon. Avoid! (Review 103),Negative,7/22/2024,46,52,0.88
+B0199915275,Instant Pot Duo,R72402,4,Excellent value and performance. Definitely worth it. (Review 104),Positive,10/29/2023,50,50,1
+B0496232693,Instant Pot Duo,R63005,2,Highly unreliable and frustrating to use. (Review 105),Negative,4/29/2024,42,51,0.82
+B0455184454,Blue Yeti Microphone,R79588,3,"Met basic expectations, nothing more. (Review 106)",Neutral,12/27/2023,47,55,0.85
+B0874473159,Sony WH-1000XM5 Headphones,R45509,3,"Neither good nor bad, just functional. (Review 107)",Neutral,7/17/2023,14,15,0.93
+B0893070706,Ring Video Doorbell,R25670,5,Exceeded my expectations. The features are great and it's a joy to use. (Review 108),Positive,5/10/2024,12,15,0.8
+B0994027897,Ninja Foodi Air Fryer,R87278,5,Perfect for my needs. Durable and reliable. (Review 109),Positive,7/18/2023,18,19,0.95
+B0860229059,Philips Hue Smart Bulb,R39816,3,"Works as advertised, no major complaints. (Review 110)",Neutral,6/30/2024,19,19,1
+B0848846217,Anker Power Bank,R45954,1,Very disappointed with this purchase. It broke after a week. (Review 111),Negative,5/10/2023,35,39,0.9
+B0614015466,Samsung Smart TV,R23446,1,Absolutely horrendous. Wish I could give zero stars. (Review 112),Negative,3/27/2024,18,25,0.72
+B0982739959,Ring Video Doorbell,R34164,1,Highly unreliable and frustrating to use. (Review 113),Negative,3/8/2023,30,31,0.97
+B0157562304,Fitbit Charge 5,R74454,1,Absolutely horrendous. Wish I could give zero stars. (Review 114),Negative,6/5/2023,40,50,0.8
+B0699226355,Anker Power Bank,R83772,3,"Decent quality, but I've seen better. (Review 115)",Neutral,3/2/2024,15,16,0.94
+B0508427798,Blink Mini Camera,R88135,5,A must-have! So useful and well-designed. (Review 116),Positive,4/6/2024,49,57,0.86
+B0766823010,Sony WH-1000XM5 Headphones,R48974,5,This is a game-changer! Improved my daily routine significantly. (Review 117),Positive,3/3/2023,19,28,0.68
+B0187174381,Blink Mini Camera,R23006,2,Worst product I've ever bought on Amazon. Avoid! (Review 118),Negative,6/10/2023,16,26,0.62
+B0538642403,Instant Pot Duo,R32782,5,Fantastic quality for the price. I'm very impressed and would buy again. (Review 119),Positive,4/6/2024,10,10,1
+B0859088046,Blink Mini Camera,R71592,3,"It's an okay product. Does the job, nothing special. (Review 120)",Neutral,10/17/2023,14,18,0.78
+B0733281747,Sony WH-1000XM5 Headphones,R19329,2,Highly unreliable and frustrating to use. (Review 121),Negative,11/8/2024,50,60,0.83
+B0259976144,Waterpik Water Flosser,R65723,1,This product is a complete failure. So many issues. (Review 122),Negative,9/30/2023,14,24,0.58
+B0738923667,Anker Power Bank,R19359,1,Does not work as described. A complete scam. (Review 123),Negative,8/5/2024,50,54,0.93
+B0851333320,Philips Hue Smart Bulb,R67560,1,Not worth the price. Many better alternatives out there. (Review 124),Negative,2/17/2024,44,48,0.92
+B0742136977,Ninja Foodi Air Fryer,R75597,5,Excellent value and performance. Definitely worth it. (Review 125),Positive,2/10/2023,28,29,0.97
+B0345805719,Apple AirPods Pro,R52247,5,Couldn't be happier with my purchase. Five stars! (Review 126),Positive,11/21/2024,1,2,0.5
+B0919382051,TP-Link Kasa Smart Plug,R86955,1,Highly unreliable and frustrating to use. (Review 127),Negative,6/29/2023,36,36,1
+B0568027936,Samsung Smart TV,R78021,4,Couldn't be happier with my purchase. Five stars! (Review 128),Positive,10/12/2024,11,20,0.55
+B0444733679,Samsung Smart TV,R21959,4,"Great product, does exactly what it says. Very satisfied. (Review 129)",Positive,11/17/2024,26,31,0.84
+B0409471503,Amazon Basics AAA Batteries,R31079,3,"Met basic expectations, nothing more. (Review 130)",Neutral,11/9/2024,44,51,0.86
+B0371011200,Fitbit Charge 5,R82102,1,Not worth the price. Many better alternatives out there. (Review 131),Negative,11/28/2023,5,10,0.5
+B0596043327,Amazon Basics AAA Batteries,R62976,5,Absolutely love this product! It works perfectly and is so easy to use. Highly recommend! (Review 132),Positive,2/28/2024,42,50,0.84
+B0771527524,Fire TV Stick 4K Max,R34586,5,"Great product, does exactly what it says. Very satisfied. (Review 133)",Positive,3/28/2024,39,46,0.85
+B0570423569,Fire TV Stick 4K Max,R36680,3,"It's a standard item, no surprises. (Review 134)",Neutral,12/16/2024,8,12,0.67
+B0433665422,Samsung Smart TV,R25915,1,Absolutely horrendous. Wish I could give zero stars. (Review 135),Negative,7/18/2024,15,17,0.88
+B0595475899,Echo Dot (5th Gen),R82384,4,Fantastic quality for the price. I'm very impressed and would buy again. (Review 136),Positive,5/1/2023,14,15,0.93
+B0546129354,Anker Power Bank,R75323,3,"It's a standard item, no surprises. (Review 137)",Neutral,5/9/2024,45,49,0.92
+B0304666325,Samsung Smart TV,R41946,4,I'm so glad I bought this. It's truly a top-notch item. (Review 138),Positive,9/5/2024,9,15,0.6
+B0464938258,Logitech MX Master 3 Mouse,R27892,1,Highly unreliable and frustrating to use. (Review 139),Negative,6/3/2024,49,55,0.89
+B0808605988,Ninja Foodi Air Fryer,R10336,3,"Neither good nor bad, just functional. (Review 140)",Neutral,5/16/2024,37,46,0.8
+B0692616814,Anker Power Bank,R68529,5,Excellent value and performance. Definitely worth it. (Review 141),Positive,7/10/2024,22,27,0.81
+B0713963047,Fitbit Charge 5,R69682,3,Average performance for the price point. (Review 142),Neutral,1/28/2024,44,47,0.94
+B0857232668,Instant Pot Duo,R63841,1,Poor design and cheap materials. Regret buying it. (Review 143),Negative,1/26/2024,47,54,0.87
+B0639331014,Fitbit Charge 5,R96991,2,Not worth the price. Many better alternatives out there. (Review 144),Negative,8/27/2024,2,4,0.5
+B0116479358,Ring Video Doorbell,R23154,4,Fantastic quality for the price. I'm very impressed and would buy again. (Review 145),Positive,5/28/2023,33,40,0.82
+B0463527356,Apple AirPods Pro,R95823,2,"Terrible quality, don't waste your money. (Review 146)",Negative,9/30/2024,30,34,0.88
+B0508031980,Fitbit Charge 5,R95175,1,Poor design and cheap materials. Regret buying it. (Review 147),Negative,11/21/2023,43,51,0.84
+B0777703980,Samsung Smart TV,R80912,1,Absolutely horrendous. Wish I could give zero stars. (Review 148),Negative,12/1/2024,4,7,0.57
+B0855797020,Philips Hue Smart Bulb,R39817,1,Received a defective unit. Customer service was unhelpful. (Review 149),Negative,4/13/2023,6,16,0.38
+B0954852540,Sony WH-1000XM5 Headphones,R31805,3,"It's an okay product. Does the job, nothing special. (Review 150)",Neutral,2/27/2023,2,7,0.29
+B0670335494,Philips Hue Smart Bulb,R56984,3,"Met basic expectations, nothing more. (Review 151)",Neutral,2/26/2024,9,12,0.75
+B0754436820,TP-Link Kasa Smart Plug,R99364,2,Does not work as described. A complete scam. (Review 152),Negative,1/27/2024,11,12,0.92
+B0349310440,Blink Mini Camera,R99539,2,Not worth the price. Many better alternatives out there. (Review 153),Negative,4/17/2024,37,39,0.95
+B0827579147,Ninja Foodi Air Fryer,R70236,3,"It's an okay product. Does the job, nothing special. (Review 154)",Neutral,7/13/2024,29,33,0.88
+B0786055206,SanDisk Ultra MicroSD Card,R19681,4,"Great product, does exactly what it says. Very satisfied. (Review 155)",Positive,3/10/2024,37,41,0.9
+B0214518079,Ninja Foodi Air Fryer,R69878,3,Average performance for the price point. (Review 156),Neutral,8/31/2023,24,31,0.77
+B0123557463,Fitbit Charge 5,R84963,3,Functional but lacks any standout features. (Review 157),Neutral,11/5/2024,18,22,0.82
+B0751124015,Fitbit Charge 5,R45976,1,Absolutely horrendous. Wish I could give zero stars. (Review 158),Negative,5/23/2024,43,43,1
+B0304152670,Philips Hue Smart Bulb,R40162,5,"Great product, does exactly what it says. Very satisfied. (Review 159)",Positive,9/27/2024,14,24,0.58
+B0142329671,Ninja Foodi Air Fryer,R98835,2,"Terrible quality, don't waste your money. (Review 160)",Negative,11/13/2023,40,50,0.8
+B0196779973,Sony WH-1000XM5 Headphones,R14373,5,"Great product, does exactly what it says. Very satisfied. (Review 161)",Positive,10/30/2023,46,48,0.96
+B0492836532,Ring Video Doorbell,R64460,2,Worst product I've ever bought on Amazon. Avoid! (Review 162),Negative,6/27/2024,8,16,0.5
+B0901611993,Logitech MX Master 3 Mouse,R45720,2,Highly unreliable and frustrating to use. (Review 163),Negative,12/13/2023,30,34,0.88
+B0826197069,Amazon Basics AAA Batteries,R71385,1,Does not work as described. A complete scam. (Review 164),Negative,11/21/2024,48,51,0.94
+B0114945047,Fitbit Charge 5,R83048,3,"Decent quality, but I've seen better. (Review 165)",Neutral,9/28/2023,50,56,0.89
+B0381493671,Blue Yeti Microphone,R26199,4,"Great product, does exactly what it says. Very satisfied. (Review 166)",Positive,8/21/2024,43,53,0.81
+B0606244434,Fitbit Charge 5,R93695,3,"Decent quality, but I've seen better. (Review 167)",Neutral,1/26/2023,43,46,0.93
+B0167878777,Blink Mini Camera,R83584,3,Functional but lacks any standout features. (Review 168),Neutral,10/12/2024,14,24,0.58
+B0139956218,Sony WH-1000XM5 Headphones,R49608,4,Fantastic quality for the price. I'm very impressed and would buy again. (Review 169),Positive,11/8/2023,8,8,1
+B0517305280,Samsung Smart TV,R25220,1,Worst product I've ever bought on Amazon. Avoid! (Review 170),Negative,4/9/2024,34,36,0.94
+B0545478870,Wyze Cam v3,R97881,5,This is a game-changer! Improved my daily routine significantly. (Review 171),Positive,11/1/2024,37,39,0.95
+B0841183219,Amazon Basics AAA Batteries,R74139,5,This is a game-changer! Improved my daily routine significantly. (Review 172),Positive,1/15/2024,17,17,1
+B0836243579,Waterpik Water Flosser,R68115,4,A must-have! So useful and well-designed. (Review 173),Positive,1/12/2024,23,24,0.96
+B0303805386,Blue Yeti Microphone,R94518,3,"It's an okay product. Does the job, nothing special. (Review 174)",Neutral,5/6/2023,25,29,0.86
+B0944814262,Sony WH-1000XM5 Headphones,R22015,2,Absolutely horrendous. Wish I could give zero stars. (Review 175),Negative,12/8/2023,1,1,1
+B0322433532,Instant Pot Duo,R26505,5,A must-have! So useful and well-designed. (Review 176),Positive,8/23/2024,4,12,0.33
+B0103044648,Waterpik Water Flosser,R40539,3,"Works as advertised, no major complaints. (Review 177)",Neutral,10/11/2023,50,59,0.85
+B0809805235,Anker Power Bank,R27038,5,Couldn't be happier with my purchase. Five stars! (Review 178),Positive,1/27/2023,11,12,0.92
+B0116944811,Anker Power Bank,R11947,3,Average performance for the price point. (Review 179),Neutral,6/28/2023,37,42,0.88
+B0900651998,Ninja Foodi Air Fryer,R16868,2,Received a defective unit. Customer service was unhelpful. (Review 180),Negative,3/7/2023,33,34,0.97
+B0585337126,Samsung Smart TV,R68756,3,"It's a standard item, no surprises. (Review 181)",Neutral,5/30/2024,37,38,0.97
+B0790781796,Instant Pot Duo,R90623,1,This product is a complete failure. So many issues. (Review 182),Negative,2/1/2023,19,26,0.73
+B0626422169,Fire TV Stick 4K Max,R72781,4,This is a game-changer! Improved my daily routine significantly. (Review 183),Positive,12/30/2024,43,44,0.98
+B0170525764,Sony WH-1000XM5 Headphones,R19632,1,Poor design and cheap materials. Regret buying it. (Review 184),Negative,5/10/2023,38,40,0.95
+B0508992977,Ninja Foodi Air Fryer,R91830,5,I'm so glad I bought this. It's truly a top-notch item. (Review 185),Positive,9/3/2024,45,50,0.9
+B0206492059,Logitech MX Master 3 Mouse,R48652,4,I'm so glad I bought this. It's truly a top-notch item. (Review 186),Positive,12/19/2024,38,44,0.86
+B0345343109,Amazon Basics AAA Batteries,R95814,5,A must-have! So useful and well-designed. (Review 187),Positive,2/28/2024,27,34,0.79
+B0435596237,Ring Video Doorbell,R69441,4,This is a game-changer! Improved my daily routine significantly. (Review 188),Positive,3/13/2024,46,47,0.98
+B0609241268,Ring Video Doorbell,R97177,3,"It's fine, could be improved in some areas. (Review 189)",Neutral,3/10/2023,9,19,0.47
+B0971630639,Kindle Paperwhite,R21188,1,Received a defective unit. Customer service was unhelpful. (Review 190),Negative,5/14/2023,6,11,0.55
+B0971450639,Kindle Paperwhite,R21188,5,not so good,Neutral,12/19/2024,5,12,0.45
+B0973430639,Kindle Paperwhite,R21188,6,worst product,Negative,12/19/2022,34,7,0.54
+B0391630639,Kindle Paperwhite,R21188,8,I think it's not good but it's good,Positive,12/19/2024,7,22,0.67
